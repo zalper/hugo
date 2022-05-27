@@ -29,7 +29,7 @@ Add some text under --- line and change draft = true to false
 Add & Commit your git changes
 
 Step 7:
-Start server to debug content "hugo server -D"
-Build pages by "hugo -D"
+Start server to debug content "hugo server -D"  
+Build pages by "hugo -D"  
 Add & Commit your git changes and push to origin
 
