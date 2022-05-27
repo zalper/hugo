@@ -19,7 +19,17 @@ Update your info in config.toml file and add theme = "YOUR_THEME_NAME"
 Step 5:  
 Install your selected theme  
 cd /themes  
-git submodule add https://github.com/YOUR_THEME_REPOSITORY.git
+git submodule add https://github.com/YOUR_THEME_REPOSITORY.git   
+Add & Commit your git changes
 
 Step 6:  
+Add content  
+hugo new posts/hello-world.md  
+Add some text under --- line and change draft = true to false  
+Add & Commit your git changes
+
+Step 7:
+Start server to debug content "hugo server -D"
+Build pages by "hugo -D"
 Add & Commit your git changes and push to origin
+
