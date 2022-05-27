@@ -1,0 +1,4 @@
+baseURL = "http://www.replaz.com/"
+languageCode = "en-us"
+title = "Replaz"
+theme = "ghostwriter"
